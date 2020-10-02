@@ -1,0 +1,47 @@
+table {
+    border: 1px solid #42b982;
+    border-radius: 1px;
+    background-color: whitesmoke;
+}
+
+select{
+    height: 20px;
+    width: 200px;
+}
+
+input{
+    width: 200px;
+    height: 14px;
+}
+
+button{
+    height: 20px;
+    width: 200px;
+}
+
+th {
+    min-width: 200px;
+    height: 10px;
+    padding: 5px 5px;
+    background-color: gainsboro;
+    color: black;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+td {
+    min-width: 150px;
+    height: 10px;
+    padding: 5px 5px;
+    background-color: whitesmoke;
+}
+
+.resp{
+    background-color: lightgreen;
+    width: 1385px;
+
+}
